@@ -4,7 +4,8 @@
 <details> <!-- How to use -->
   <summary>How to use</summary>
   <ul>
-    <li>Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter Rise"</li>
+    <li>Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter World"</li>
+    <li>
       <table>
         <tr>
           <th>Windows</th>
@@ -38,7 +39,7 @@
   <summary>Tools and info used to create our mods</summary>
   <ul>
     <li><a href="https://github.com/Synthlight/MHR-Editor">Synthlight's MHR Editor</a></li>
-    <li><a href="https://github.com/Synthlight/MHR-Editor/wiki">Synthlight's MHW Editor Wiki</a></li>
+    <li><a href="https://github.com/Synthlight/MHR-Editor/wiki">Synthlight's MHR Editor Wiki</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/411">MHWNoChunk?</a></li>
     <li>Our own scripts</li>
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
