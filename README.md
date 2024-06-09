@@ -32,7 +32,7 @@
 <details> <!-- 3rd party mods included in our bundle -->
   <summary>3rd party mods included in our bundle</summary>
   <ul>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1982">Stracker's Loader</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/26?tab=files">REFramework</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
