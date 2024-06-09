@@ -11,3 +11,9 @@ CrashReportDll.dll
 CrashReport.exe
 config.ini
 amd_ags_x64.dll
+/ScreenShots
+re2_framework_log.txt
+re2_fw_config.txt
+ref_ui.ini
+_storage_/dinput8.dll
+_storage_/D3D12/D3D12Core.dll
