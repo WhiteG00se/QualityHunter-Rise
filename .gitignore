@@ -18,3 +18,5 @@ ref_ui.ini
 _storage_/dinput8.dll
 _storage_/D3D12/D3D12Core.dll
 /compare paks
+shader.cache2
+Enums_Internal.hpp
