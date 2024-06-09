@@ -1,5 +1,5 @@
 <html>
-<h3><a href="https://docs.google.com/spreadsheets/d/1Gh45iZ4zJfJ-ox3Mq_9B57btyoEGqgNrPGkLhxZ1VqE/edit#gid=227556876"
+<h3><a href="https://docs.google.com/spreadsheets/d/1o5TUvNii5BYmpCqOiBZx4jlki5P3iKkNU96aAjPHx54/edit?usp=drive_link"
     target="_blank">Changelog/Wiki</a></h3>
 <details> <!-- How to use -->
   <summary>How to use</summary>
@@ -43,7 +43,5 @@
     <li><a href="https://github.com/Synthlight/MHR-Editor">Synthlight's MHR Editor</a></li>
     <li><a href="https://github.com/Synthlight/MHR-Editor/wiki">Synthlight's MHR Editor Wiki</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/849?tab=files">MHRUnpack</a></li>
-    <li>Our own scripts</li>
-    <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
 </details>
