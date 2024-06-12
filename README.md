@@ -46,6 +46,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/886?tab=files">SpiritBirds</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/54?tab=files">Monster Weakness Icon Indicator</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/92?tab=files">VIP Dango Tickets</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/76?tab=files">No More Blinking Icons</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
