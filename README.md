@@ -13,16 +13,16 @@
           <td>Install a GIT client. I recommend the official Microsoft Client: <a href="https://desktop.github.com">GitHub Desktop</a></td>
         </tr>
         <tr>
-          <td>rename "[...]\Steam\steamapps\common\Monster Hunter Rise" to "[...]\Steam\steamapps\common\Monster Hunter Rise2"</td>
+          <td>rename "[...]\Steam\steamapps\common\Monster Hunter Rise" to "Monster Hunter Rise2"</td>
         </tr>
         <tr>
-          <td>create a new "[...]\Steam\steamapps\common\Monster Hunter Rise" folder</td>
+          <td>create a new "Monster Hunter Rise" folder</td>
         </tr>
           <tr>
-          <td>GIT clone this repo to "[...]\Steam\steamapps\common\Monster Hunter Rise"</td>
+          <td>GIT clone this repo to "Monster Hunter Rise"</td>
         </tr>
           <tr>
-          <td>move the files from Rise2 to Rise and delete the Rise2 folder afterwards</td>
+          <td>move the files from "Monster Hunter Rise2" to "Monster Hunter Rise" and delete the "Monster Hunter Rise2" folder afterwards</td>
         </tr>
       </table>
     </li>
