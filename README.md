@@ -43,6 +43,7 @@
   <ul>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/26?tab=files">REFramework</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/848?tab=description">FirstNatives</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/886?tab=files">SpiritBirds</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
