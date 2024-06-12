@@ -1,0 +1,42 @@
+{
+    "enabled": true,
+    "status_icons": {
+        "other_players": {
+            "displayed_icon_timer_speed": 0.004999999888241291,
+            "hidden_icon_timer_speed": 0.009999999776482582,
+            "mode": "Always Visible"
+        },
+        "otomos": {
+            "displayed_icon_timer_speed": 0.004999999888241291,
+            "hidden_icon_timer_speed": 0.009999999776482582,
+            "mode": "Always Hidden"
+        },
+        "player": {
+            "displayed_icon_timer_speed": 0.004999999888241291,
+            "hidden_icon_timer_speed": 0.009999999776482582,
+            "mode": "Always Visible"
+        },
+        "servants": {
+            "displayed_icon_timer_speed": 0.004999999888241291,
+            "hidden_icon_timer_speed": 0.009999999776482582,
+            "mode": "Always Visible"
+        }
+    },
+    "version": "2.1",
+    "weapon_icons": {
+        "others": {
+            "discovered_icon_frame_speed": 0.15000000596046448,
+            "hidden_icon_frame_speed": 0.30000001192092896,
+            "host_icon_frame_speed": 0.15000000596046448,
+            "mode": "Always Adjusted",
+            "weapon_icon_frame_speed": 0.15000000596046448
+        },
+        "player": {
+            "discovered_icon_frame_speed": 0.15000000596046448,
+            "hidden_icon_frame_speed": 0.30000001192092896,
+            "mode": "Always Adjusted",
+            "ready_icon_frame_speed": 0.15000000596046448,
+            "weapon_icon_frame_speed": 0.15000000596046448
+        }
+    }
+}
