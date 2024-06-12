@@ -7,7 +7,7 @@
     <li>
       <table>
         <tr>
-          <th>Recommended install </th>
+          <th>Recommended install (<a href="https://www.youtube.com/watch?v=tZPNiCnPswU">Video Guide</a>)</th>
         </tr>
         <tr>
           <td>Install a GIT client. I recommend the official Microsoft Client: <a href="https://desktop.github.com">GitHub Desktop</a></td>
