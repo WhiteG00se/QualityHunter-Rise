@@ -10,7 +10,7 @@
           <th>Recommended install (<a href="https://www.youtube.com/watch?v=tZPNiCnPswU">Video Guide</a>)</th>
         </tr>
         <tr>
-          <td>Install a GIT client. I recommend the official Microsoft Client: <a href="https://desktop.github.com">GitHub Desktop</a></td>
+          <td>Install a GIT client. I recommend the official Microsoft Client: <a href="https://desktop.github.com">GitHub Desktop</a> - no account needed</td>
         </tr>
         <tr>
           <td>rename "[...]\Steam\steamapps\common\Monster Hunter Rise" to "Monster Hunter Rise2"</td>
