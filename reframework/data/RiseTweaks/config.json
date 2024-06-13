@@ -1,0 +1,7 @@
+{
+    "autoFPS": true,
+    "desiredFPS": 240,
+    "desiredQuality": 1.0,
+    "enableFPS": true,
+    "enableQuality": false
+}
