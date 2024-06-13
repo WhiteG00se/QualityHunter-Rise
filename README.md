@@ -50,6 +50,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1064?tab=files">Gems Sorted by Skill Name (eng)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/203?tab=files">Drop Rates Enhanced x2</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/319?tab=files">Reward multiplier x1.5 and money/kamura x2</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/282?tab=files">Sparks Removed</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
