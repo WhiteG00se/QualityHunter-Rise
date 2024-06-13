@@ -1,0 +1,54 @@
+{
+    "customization_menu": {
+        "pivot": {
+            "x": 0,
+            "y": 0
+        },
+        "position": {
+            "x": 786.0,
+            "y": 790.0
+        },
+        "size": {
+            "height": 480,
+            "width": 570
+        }
+    },
+    "hide_network_errors": {
+        "enabled": true,
+        "when_to_hide": {
+            "on_quests": true,
+            "outside_quests": false
+        }
+    },
+    "hide_online_warning": {
+        "enabled": true
+    },
+    "language_filter_fix": {
+        "enabled": true,
+        "lobby_language_filter_bypass": {
+            "enabled": false
+        }
+    },
+    "region_lock_fix": {
+        "join_requests": {
+            "distance_filter": "Worldwide",
+            "enabled": true
+        },
+        "lobbies": {
+            "distance_filter": "Worldwide",
+            "enabled": true
+        }
+    },
+    "timeout_fix": {
+        "enabled": true,
+        "quest_types": {
+            "anomaly_investigation": true,
+            "rampage": true,
+            "random": true,
+            "random_anomaly": true,
+            "random_master_rank": true,
+            "regular": true
+        }
+    },
+    "version": "2.4"
+}
