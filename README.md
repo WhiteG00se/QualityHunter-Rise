@@ -48,6 +48,8 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/92?tab=files">VIP Dango Tickets</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/76?tab=files">No More Blinking Icons</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1064?tab=files">Gems Sorted by Skill Name (eng)</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/203?tab=files">Drop Rates Enhanced x2</a></li>
+    
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
