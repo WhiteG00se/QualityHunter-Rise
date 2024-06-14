@@ -36,6 +36,18 @@
         </tr>
       </table>
     </li>
+      <li>
+      <table>
+        <tr>
+          <th>Steam Deck extra step</th>
+          <th></th>
+        </tr>
+        <tr>
+          <td>set launch options</td>
+          <td>WINEDLLOVERRIDES="dinput8.dll=n,b" %command%</td>
+        </tr>
+      </table>
+    </li>
   </ul>
 </details>
 <details> <!-- 3rd party mods included in my bundle -->
