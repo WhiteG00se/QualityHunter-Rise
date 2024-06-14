@@ -55,6 +55,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/197?tab=files">MHR User Interface Plus Plus</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/134?tab=files">REFramework Direct2D</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1088?tab=files">Auto Resupply Item Set</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/117?tab=files">Buddy Skill Editor</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
