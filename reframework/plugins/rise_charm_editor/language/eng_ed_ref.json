@@ -1,8 +1,8 @@
 {
     "Headers": {
         "m_header_charm_editor": "Charm Editor",
-        "m_header_player_editor": "Player Editor",
-        "m_header_itembox_editor": "Itembox Editor",
+        "m_header_player_editor": "feature disabled",
+        "m_header_itembox_editor": "feature disabled",
         "m_header_loadout_editor": "Loadout Editor"
     },
     "Charm Editor": {
@@ -24,31 +24,31 @@
         "m_text_waiting_for_game": "You either don't have any charms or you are not loaded into a save."
     },
     "Player Editor": {
-        "m_label_zenny": "Zenny",
-        "m_label_points": "Points",
-        "m_text_warning": "Warning",
-        "m_text_warning_hr": "Setting Hunter Rank manually is not recommended. If you set your Hunter Rank without adjusting your Hunter Rank Points, you will be stuck at that specific Hunter Rank until you legitimately acquire the XP required to get to that rank. Instead, edit only Hunter Rank Points, then complete any quest and your Hunter Rank will adjust accordingly.",
-        "m_label_hunter_rank": "Hunter Rank",
-        "m_label_hr_points": "HR Points",
-        "m_label_master_rank": "Master Rank",
-        "m_label_mr_points": "MR Points"
+        "m_label_zenny": "feature disabled",
+        "m_label_points": "feature disabled",
+        "m_text_warning": "feature disabled",
+        "m_text_warning_hr": "feature disabled",
+        "m_label_hunter_rank": "feature disabled",
+        "m_label_hr_points": "feature disabled",
+        "m_label_master_rank": "feature disabled",
+        "m_label_mr_points": "feature disabled"
     },
     "Itembox Editor": {
-        "m_button_add_all": "Add All Items",
-        "m_button_clear_itembox": "Clear Itembox",
-        "m_button_delete_illegal": "Delete Illegal Items",
-        "m_button_clear_selected": "Clear Selected",
-        "m_button_export_items": "Export Items",
-        "m_button_import_items": "Import Items",
-        "m_text_warning_overwrite": "Doing this will overwrite all items in your box! Are you sure?",
-        "m_button_yes": "Yes",
-        "m_button_no": "No",
-        "m_label_itemlist_filter": "Item List Filter",
-        "m_label_items": "Items",
-        "m_label_index": "Index",
-        "m_label_id": "ID",
-        "m_label_item": "Item",
-        "m_label_amount": "Amount"
+        "m_button_add_all": "feature disabled",
+        "m_button_clear_itembox": "feature disabled",
+        "m_button_delete_illegal": "feature disabled",
+        "m_button_clear_selected": "feature disabled",
+        "m_button_export_items": "feature disabled",
+        "m_button_import_items": "feature disabled",
+        "m_text_warning_overwrite": "feature disabled",
+        "m_button_yes": "feature disabled",
+        "m_button_no": "feature disabled",
+        "m_label_itemlist_filter": "feature disabled",
+        "m_label_items": "feature disabled",
+        "m_label_index": "feature disabled",
+        "m_label_id": "feature disabled",
+        "m_label_item": "feature disabled",
+        "m_label_amount": "feature disabled"
     },
     "Loadout Editor": {
         "m_button_delete": "Delete"

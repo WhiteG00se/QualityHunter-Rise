@@ -1,8 +1,8 @@
 {
     "Headers": {
         "m_header_charm_editor": "Talisman Bearbeiten",
-        "m_header_player_editor": "Player Bearbeiten",
-        "m_header_itembox_editor": "Objekttruhe Bearbeiten",
+        "m_header_player_editor": "feature disabled",
+        "m_header_itembox_editor": "feature disabled",
         "m_header_loadout_editor": "Ausrüstungssets Bearbeiten"
     },
     "Charm Editor": {
@@ -24,31 +24,31 @@
         "m_text_waiting_for_game": "Du besitzt kein Talisman oder befindest dich nicht  im Spiel."
     },
     "Player Editor": {
-        "m_label_zenny": "Zenni",
-        "m_label_points": "Punkte",
-        "m_text_warning": "Warnung",
-        "m_text_warning_hr": "Falls du dein Jägerrang änderst ohne JR-Punkte hinzuzufügen, bleibst du so lange auf deinem jetzigen Rang bis du legitim die benötigten JR Punkte erfarmt hast. Stattdessen bearbeite nur die Jägerrang Punkte und schließe eine Quest ab, damit dein Jägerrank entsprechend aufsteigt.",
-        "m_label_hunter_rank": "Jägerrang",
-        "m_label_hr_points": "JR Punkte",
-        "m_label_master_rank": "Meisterrang",
-        "m_label_mr_points": "MR Punkte"
+        "m_label_zenny": "feature disabled",
+        "m_label_points": "feature disabled",
+        "m_text_warning": "feature disabled",
+        "m_text_warning_hr": "feature disabled",
+        "m_label_hunter_rank": "feature disabled",
+        "m_label_hr_points": "feature disabled",
+        "m_label_master_rank": "feature disabled",
+        "m_label_mr_points": "feature disabled"
     },
     "Itembox Editor": {
-        "m_button_add_all": "Alle Objekte Hinzufügen",
-        "m_button_clear_itembox": "Objekttruhe leeren",
-        "m_button_delete_illegal": "Illegale Objekte löschen",
-        "m_button_clear_selected": "Auswahl löschen",
-        "m_button_export_items": "Items Exportieren",
-        "m_button_import_items": "Items Importieren",
-        "m_text_warning_overwrite": "Dies wird alle deine Items in der box überschreiben! Bist du sicher?",
-        "m_button_yes": "Ja",
-        "m_button_no": "Nein",
-        "m_label_itemlist_filter": "Itemliste Filter",
-        "m_label_items": "Items",
-        "m_label_index": "Index",
-        "m_label_id": "ID",
-        "m_label_item": "Item",
-        "m_label_amount": "Menge"
+        "m_button_add_all": "feature disabled",
+        "m_button_clear_itembox": "feature disabled",
+        "m_button_delete_illegal": "feature disabled",
+        "m_button_clear_selected": "feature disabled",
+        "m_button_export_items": "feature disabled",
+        "m_button_import_items": "feature disabled",
+        "m_text_warning_overwrite": "feature disabled",
+        "m_button_yes": "feature disabled",
+        "m_button_no": "feature disabled",
+        "m_label_itemlist_filter": "feature disabled",
+        "m_label_items": "feature disabled",
+        "m_label_index": "feature disabled",
+        "m_label_id": "feature disabled",
+        "m_label_item": "feature disabled",
+        "m_label_amount": "feature disabled"
     },
     "Loadout Editor": {
         "m_button_delete": "Löschen"
