@@ -53,6 +53,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1044?tab=files">Better Matchmaking</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/37?tab=files">RiseTweaks</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/197?tab=files">MHR User Interface Plus Plus</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/134?tab=files">REFramework Direct2D</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
