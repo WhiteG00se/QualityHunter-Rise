@@ -38,8 +38,8 @@
     </li>
   </ul>
 </details>
-<details> <!-- 3rd party mods included in our bundle -->
-  <summary>3rd party mods included in our bundle</summary>
+<details> <!-- 3rd party mods included in my bundle -->
+  <summary>3rd party mods included in my bundle</summary>
   <ul>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/26?tab=files">REFramework</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/848?tab=description">FirstNatives</a></li>
@@ -57,8 +57,8 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1088?tab=files">Auto Resupply Item Set</a></li>
   </ul>
 </details>
-<details> <!-- Tools and info used to create our mods -->
-  <summary>Tools and info used to create our mods</summary>
+<details> <!-- Tools and info used to create my mods -->
+  <summary>Tools and info used to create my mods</summary>
   <ul>
     <li><a href="https://github.com/Synthlight/MHR-Editor">Synthlight's MHR Editor</a></li>
     <li><a href="https://github.com/Synthlight/MHR-Editor/wiki">Synthlight's MHR Editor Wiki</a></li>
