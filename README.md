@@ -57,6 +57,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1088?tab=files">Auto Resupply Item Set</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/49?tab=files">Disable Other Players Pets</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/117?tab=files">Buddy Skill Editor</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/93?tab=files">NoKillCam+SlowMo</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
