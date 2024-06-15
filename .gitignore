@@ -11,6 +11,9 @@ CrashReport.exe
 amd_ags_x64.dll
 shader.cache2
 
+*.cache
+*.cache.write
+
 ref_ui.ini
 re2_fw_config.txt
 re2_framework_log.txt
