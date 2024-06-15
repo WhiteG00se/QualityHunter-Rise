@@ -1,5 +1,5 @@
 {
-    "InfiniteDangoTickets": false,
+    "InfiniteDangoTickets": true,
     "ShowAllDango": true,
     "TicketByDefault": true,
     "skewerLvs": [
