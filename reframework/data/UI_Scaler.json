@@ -1,0 +1,410 @@
+{
+    "bottomRightScale": 0.75,
+    "centerScale": 0.75,
+    "elementSettings": {
+        "snow.gui.GuiChatInfoWindow": {
+            "anchor": 7,
+            "displayName": "ChatInfoWindow",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiCommonHeadMessage": {
+            "anchor": 4,
+            "displayName": "CommonHeadMessage",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75,
+            "subPanels": {
+                "_headName_Panel": {
+                    "anchor": 4,
+                    "isName": true,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
+                },
+                "_pnl_HeadUI": {
+                    "anchor": 4,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
+                }
+            }
+        },
+        "snow.gui.GuiCommonOtomoHeadMessage": {
+            "anchor": 4,
+            "displayName": "CommonOtomoHeadMessage",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75,
+            "subPanels": {
+                "_pnl_OtomoHeadUI": {
+                    "anchor": 4,
+                    "isName": true,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
+                }
+            }
+        },
+        "snow.gui.GuiHud": {
+            "anchor": 0,
+            "displayName": "Hud",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_GoodRelationship": {
+            "anchor": 3,
+            "displayName": "GoodRelationship",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_HunterWire": {
+            "anchor": 5,
+            "displayName": "HunterWire",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75,
+            "subPanels": {
+                "pnl_HunterWire": {
+                    "absolutePos": true,
+                    "anchor": 5,
+                    "posAdjustX": 1,
+                    "posAdjustY": 0.925,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
+                },
+                "pnl_WireAiming": {
+                    "anchor": 4,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
+                }
+            }
+        },
+        "snow.gui.GuiHud_IntervalSkip": {
+            "anchor": 3,
+            "displayName": "IntervalSkip",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_ItemActionSlider": {
+            "anchor": 8,
+            "displayName": "ItemActionSlider",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Marionette": {
+            "anchor": 8,
+            "displayName": "Marionette",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_QuestTarget": {
+            "anchor": 0,
+            "displayName": "QuestTarget",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Sharpness": {
+            "anchor": 0,
+            "displayName": "Sharpness",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_TgCamera": {
+            "anchor": 6,
+            "displayName": "TgCamera",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75,
+            "subPanels": {
+                "_tgCameraIconPanel": {
+                    "anchor": 6,
+                    "posAdjustX": 1,
+                    "posAdjustY": 0,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
+                }
+            }
+        },
+        "snow.gui.GuiHud_Timelimit": {
+            "anchor": 0,
+            "displayName": "Timelimit",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75,
+            "subPanels": {
+                "_pnl_HyakuryuQuestTimer": {
+                    "absolutePos": true,
+                    "anchor": 3,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0.185,
+                    "posX": 960.0,
+                    "posY": 200,
+                    "scale": 1.0,
+                    "useGlobalScale": true
+                },
+                "_pnl_NomalQuestTimer": {
+                    "anchor": 0,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0,
+                    "posX": 0,
+                    "posY": 0,
+                    "scale": 1.0,
+                    "useGlobalScale": true
+                }
+            }
+        },
+        "snow.gui.GuiHud_WeaponTechniqueMySet": {
+            "anchor": 5,
+            "displayName": "WeaponTechniqueMySet",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75,
+            "subPanels": {
+                "pnl_ActionCommand1": {
+                    "absolutePos": true,
+                    "anchor": 5,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0.075,
+                    "posX": 0,
+                    "posY": -100,
+                    "scale": 1,
+                    "useGlobalScale": true
+                },
+                "pnl_ActionCommand2": {
+                    "absolutePos": true,
+                    "anchor": 5,
+                    "posAdjustX": 0.15,
+                    "posAdjustY": -0.025,
+                    "posX": -200,
+                    "posY": 30,
+                    "scale": 1,
+                    "useGlobalScale": true
+                },
+                "pnl_ActionCommand3": {
+                    "absolutePos": true,
+                    "anchor": 5,
+                    "posAdjustX": -0.15,
+                    "posAdjustY": -0.025,
+                    "posX": 200,
+                    "posY": 30,
+                    "scale": 1,
+                    "useGlobalScale": true
+                },
+                "pnl_WeaponTechniqueMyset": {
+                    "anchor": 5,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0,
+                    "posX": 0,
+                    "posY": 0,
+                    "scale": 1,
+                    "useGlobalScale": true
+                }
+            }
+        },
+        "snow.gui.GuiHud_Weapon_Bow": {
+            "anchor": 4,
+            "displayName": "Weapon_Bow",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Weapon_Bowgun": {
+            "anchor": 0,
+            "displayName": "Weapon_Bowgun",
+            "posX": 0,
+            "posY": 0,
+            "scale": 1,
+            "subPanels": {
+                "_BowgunAiming": {
+                    "absolutePos": true,
+                    "anchor": 4,
+                    "posAdjustX": 1,
+                    "posAdjustY": 1,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true
+                },
+                "_BowgunBulletPanel": {
+                    "anchor": 0,
+                    "posAdjustX": 0.075,
+                    "posAdjustY": 0.115,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true
+                },
+                "_BowgunBulletStatus": {
+                    "anchor": 0,
+                    "posAdjustX": 0,
+                    "posAdjustY": 0,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true
+                },
+                "_BowgunSpecialPosPanel": {
+                    "anchor": 8,
+                    "posAdjustX": 1,
+                    "posAdjustY": 0.3,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true
+                }
+            }
+        },
+        "snow.gui.GuiHud_Weapon_C_Axe": {
+            "anchor": 0,
+            "displayName": "Weapon_C_Axe",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Weapon_D_Bld": {
+            "anchor": 0,
+            "displayName": "Weapon_D_Bld",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Weapon_G_Lan": {
+            "anchor": 0,
+            "displayName": "Weapon_G_Lan",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Weapon_Ham": {
+            "anchor": 0,
+            "displayName": "Weapon_Ham",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Weapon_Horn": {
+            "anchor": 0,
+            "displayName": "Weapon_Horn",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Weapon_I_Glaive": {
+            "anchor": 0,
+            "displayName": "Weapon_I_Glaive",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75,
+            "subPanels": {
+                "pnl_I_Gla_Top": {
+                    "anchor": 0.0,
+                    "posAdjustX": 0.15,
+                    "posAdjustY": 0.1,
+                    "posX": 0.0,
+                    "posY": 0.0,
+                    "scale": 1.0,
+                    "useGlobalScale": true
+                }
+            }
+        },
+        "snow.gui.GuiHud_Weapon_L_Swd": {
+            "anchor": 0,
+            "displayName": "Weapon_L_Swd",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiHud_Weapon_S_Axe": {
+            "anchor": 0,
+            "displayName": "Weapon_S_Axe",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiLobbyQuestInfoWindow": {
+            "anchor": 0,
+            "displayName": "LobbyQuestInfoWindow",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiProgressInfo": {
+            "anchor": 6,
+            "displayName": "ProgressInfo",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiQuestHudBulletSlider": {
+            "anchor": 8,
+            "displayName": "QuestHudBulletSlider",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiQuestHudCustomShortCircle": {
+            "anchor": 7,
+            "displayName": "QuestHudCustomShortCircle",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.GuiQuestHudMapWindow": {
+            "anchor": 2,
+            "displayName": "QuestHudMapWindow",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        },
+        "snow.gui.StmGuiHudKeyboardShortcut": {
+            "anchor": 5,
+            "displayName": "StmHudKeyboardShortcut",
+            "posX": 0,
+            "posY": 0,
+            "scale": 0.75
+        }
+    },
+    "mapScale": 0.8,
+    "namesScale": 0.75,
+    "overkillMode": false,
+    "uiScale": 0.75,
+    "unlockScaleSliders": false
+}
