@@ -1,4 +1,3 @@
-
 MonsterHunterRise.exe
 Tool/InstallerMessage.exe
 re_chunk_000.pak.patch_001.pak
@@ -11,6 +10,7 @@ CrashReport.exe
 /ScreenShots
 amd_ags_x64.dll
 shader.cache2
+
 ref_ui.ini
 re2_fw_config.txt
 re2_framework_log.txt
