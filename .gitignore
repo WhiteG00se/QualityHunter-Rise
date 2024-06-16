@@ -16,8 +16,6 @@ re_chunk_000.pak.patch_001.pak
 *.cache2
 *.cache.write
 
-
-
 ref_ui.ini
 re2_fw_config.txt
 re2_framework_log.txt
