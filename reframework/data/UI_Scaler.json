@@ -1,6 +1,6 @@
 {
-    "bottomRightScale": 0.75,
-    "centerScale": 0.75,
+    "bottomRightScale": 0.85,
+    "centerScale": 0.85,
     "elementSettings": {
         "snow.gui.GuiChatInfoWindow": {
             "anchor": 7,
@@ -24,9 +24,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_pnl_HeadUI": {
                     "anchor": 4,
@@ -35,9 +33,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -56,9 +52,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -67,8 +61,7 @@
             "displayName": "Hud",
             "posX": 0.0,
             "posY": 0.0,
-            "scale": 0.8500000238418579,
-            "subPanels": null
+            "scale": 0.85
         },
         "snow.gui.GuiHud_GoodRelationship": {
             "anchor": 3,
@@ -92,9 +85,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "pnl_WireAiming": {
                     "anchor": 4,
@@ -103,9 +94,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -158,9 +147,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -179,9 +166,7 @@
                     "posX": 960.0,
                     "posY": 200,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_pnl_NomalQuestTimer": {
                     "anchor": 0,
@@ -190,9 +175,7 @@
                     "posX": 0,
                     "posY": 0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -407,9 +390,9 @@
             "scale": 0.85
         }
     },
-    "mapScale": 0.800000011920929,
-    "namesScale": 0.75,
-    "overkillMode": true,
-    "uiScale": 0.75,
+    "mapScale": 0.85,
+    "namesScale": 0.85,
+    "overkillMode": false,
+    "uiScale": 0.85,
     "unlockScaleSliders": false
 }
