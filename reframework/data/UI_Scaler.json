@@ -24,7 +24,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_pnl_HeadUI": {
                     "anchor": 4,
@@ -33,7 +35,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -52,7 +56,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -62,19 +68,7 @@
             "posX": 0.0,
             "posY": 0.0,
             "scale": 0.8500000238418579,
-            "subPanels": {
-                "_questBuddyPlayerList": {
-                    "absolutePos": true,
-                    "anchor": 0,
-                    "displayName": "_questBuddyPlayerList",
-                    "posAdjustX": 0.0,
-                    "posAdjustY": 0.0,
-                    "posX": 0.0,
-                    "posY": 0.0,
-                    "scale": 0.0,
-                    "useGlobalScale": false
-                }
-            }
+            "subPanels": null
         },
         "snow.gui.GuiHud_GoodRelationship": {
             "anchor": 3,
@@ -98,7 +92,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "pnl_WireAiming": {
                     "anchor": 4,
@@ -107,7 +103,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -160,7 +158,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -179,7 +179,9 @@
                     "posX": 960.0,
                     "posY": 200,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_pnl_NomalQuestTimer": {
                     "anchor": 0,
@@ -188,7 +190,9 @@
                     "posX": 0,
                     "posY": 0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },

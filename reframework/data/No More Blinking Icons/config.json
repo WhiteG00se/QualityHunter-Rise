@@ -28,13 +28,13 @@
             "discovered_icon_frame_speed": 0.15000000596046448,
             "hidden_icon_frame_speed": 0.30000001192092896,
             "host_icon_frame_speed": 0.15000000596046448,
-            "mode": "Always Adjusted",
+            "mode": "Always Visible Weapon Icon",
             "weapon_icon_frame_speed": 0.15000000596046448
         },
         "player": {
             "discovered_icon_frame_speed": 0.15000000596046448,
             "hidden_icon_frame_speed": 0.30000001192092896,
-            "mode": "Always Adjusted",
+            "mode": "Always Visible Weapon Icon",
             "ready_icon_frame_speed": 0.15000000596046448,
             "weapon_icon_frame_speed": 0.15000000596046448
         }
