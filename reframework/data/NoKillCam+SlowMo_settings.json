@@ -7,9 +7,9 @@
     "disableOtherCams": false,
     "disableUiOnKill": true,
     "kbAnimSkipKey": 27,
-    "slowMoDuration": 5.0,
+    "slowMoDuration": 1.5,
     "slowMoRamp": 1.5,
-    "slowMoSpeed": 0.20000000298023224,
+    "slowMoSpeed": 0.3,
     "useMotionBlurInSlowMo": false,
     "useSlowMo": true,
     "useSlowMoInMP": true
