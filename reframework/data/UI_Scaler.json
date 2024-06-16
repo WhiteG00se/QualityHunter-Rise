@@ -78,9 +78,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 0.0,
-                    "useGlobalScale": false,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": false
                 }
             }
         },
@@ -172,9 +170,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -276,9 +272,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_BowgunBulletPanel": {
                     "anchor": 0,
@@ -287,9 +281,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_BowgunBulletStatus": {
                     "anchor": 0,
@@ -298,9 +290,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_BowgunSpecialPosPanel": {
                     "anchor": 8,
@@ -309,9 +299,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
