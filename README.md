@@ -77,6 +77,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/17?tab=files">Charm Editor and Item Cheat</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/207?tab=files">Adjustable UI Scale</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/43?tab=files">Monster Has HP Bar</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/68?tab=files">coavins damage and dps overlay</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
