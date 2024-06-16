@@ -1,7 +1,7 @@
 {
     "activateByAnyPlayer": true,
     "activateByEnemies": true,
-    "activateForAllMonsters": true,
+    "activateForAllMonsters": false,
     "activateOnCapture": true,
     "disableKillCam": true,
     "disableOtherCams": false,
