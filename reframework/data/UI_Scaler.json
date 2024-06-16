@@ -24,9 +24,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_pnl_HeadUI": {
                     "anchor": 4,
@@ -35,9 +33,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -56,9 +52,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -91,9 +85,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "pnl_WireAiming": {
                     "anchor": 4,
@@ -102,9 +94,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -157,9 +147,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -178,9 +166,7 @@
                     "posX": 960.0,
                     "posY": 200,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_pnl_NomalQuestTimer": {
                     "anchor": 0,
@@ -189,9 +175,7 @@
                     "posX": 0,
                     "posY": 0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
@@ -265,9 +249,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_BowgunBulletPanel": {
                     "anchor": 0,
@@ -276,9 +258,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_BowgunBulletStatus": {
                     "anchor": 0,
@@ -287,9 +267,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 },
                 "_BowgunSpecialPosPanel": {
                     "anchor": 8,
@@ -298,9 +276,7 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true,
-                    "vectorPos": null,
-                    "vectorScale": null
+                    "useGlobalScale": true
                 }
             }
         },
