@@ -1,5 +1,6 @@
 /Tool
 /ScreenShots
+/pdlc
 /_storage_
 amd_ags_x64.dll
 config.ini
@@ -20,5 +21,4 @@ ref_ui.ini
 re2_fw_config.txt
 re2_framework_log.txt
 reframework_crash.dmp
-pdlc/re_pdlc_130_1699488007.pak
 imgui.ini
