@@ -157,7 +157,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -176,7 +178,9 @@
                     "posX": 960.0,
                     "posY": 200,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_pnl_NomalQuestTimer": {
                     "anchor": 0,
@@ -185,7 +189,9 @@
                     "posX": 0,
                     "posY": 0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -259,7 +265,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_BowgunBulletPanel": {
                     "anchor": 0,
@@ -268,7 +276,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_BowgunBulletStatus": {
                     "anchor": 0,
@@ -277,7 +287,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_BowgunSpecialPosPanel": {
                     "anchor": 8,
@@ -286,7 +298,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
