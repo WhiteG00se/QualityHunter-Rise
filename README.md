@@ -85,7 +85,7 @@
   <ul>
     <li><a href="https://github.com/Synthlight/MHR-Editor">Synthlight's MHR Editor</a></li>
     <li><a href="https://github.com/Synthlight/MHR-Editor/wiki">Synthlight's MHR Editor Wiki</a></li>
-    <li><a href="https://github.com/mhvuze/MonsterHunterRiseModding/wiki"> MHR Modding Wiki</a></li>
+    <li><a href="https://github.com/mhvuze/MonsterHunterRiseModding/wiki/Skill-IDs"> MHR Modding Wiki</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/849?tab=files">MHRUnpack</a></li>
   </ul>
 </details>
