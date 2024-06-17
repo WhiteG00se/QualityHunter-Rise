@@ -101,7 +101,7 @@
             "VALUE": "en-US"
         },
         "MARIONETTE_IS_PLAYER_DMG": {
-            "VALUE": true
+            "VALUE": false
         },
         "PDPS_BASED_ON_FIRST_STRIKE": {
             "VALUE": true
