@@ -72,8 +72,6 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/49?tab=files">Disable Other Players Pets</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/117?tab=files">Buddy Skill Editor</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/93?tab=files">NoKillCam+SlowMo</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/62?tab=files">Carve Timer Skip and Fast Return</a>
-    </li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/17?tab=files">Charm Editor and Item Cheat</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/207?tab=files">Adjustable UI Scale</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/43?tab=files">Monster Has HP Bar</a></li>
