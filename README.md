@@ -76,6 +76,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/207?tab=files">Adjustable UI Scale</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/43?tab=files">Monster Has HP Bar</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/68?tab=files">coavins damage and dps overlay</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1386?tab=files">Teleport to target (Ninjutsu gesture)</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
