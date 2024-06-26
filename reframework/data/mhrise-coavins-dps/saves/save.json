@@ -227,17 +227,17 @@
         "TABLE_WIDTH": {
             "MAX": 2000.0,
             "MIN": 30.0,
-            "VALUE": 343
+            "VALUE": 337
         },
         "TABLE_X": {
             "MAX": 1.0,
             "MIN": 0.0,
-            "VALUE": 0.8799999952316284
+            "VALUE": 0.7400000095367432
         },
         "TABLE_Y": {
             "MAX": 1.0,
             "MIN": 0.0,
-            "VALUE": 0.10999999940395355
+            "VALUE": 0.0
         },
         "TEXT_DRAW_SHADOWS": {
             "VALUE": true
