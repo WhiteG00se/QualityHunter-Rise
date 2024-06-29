@@ -88,8 +88,9 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/68?tab=files">coavins damage and dps overlay</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1386?tab=files">Teleport to target (Ninjutsu
         gesture)</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/925?tab=files">Armor (Layered, Ignore Unlock
-        Flags)</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/925?tab=files">No Crafting Requirements (Layered,
+        Ignore Unlock Flags) - is buggy until you unlock one entry of the category (e.g. 1 low rank layered armor)</a> 
+    </li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
