@@ -7,6 +7,11 @@
     <li>
       <table>
         <tr>
+          <td>It's recommended to set the language to english both on steam and ingame.</td>
+        </tr>
+      </table>
+      <table>
+        <tr>
           <th>Recommended install (<a href="https://www.youtube.com/watch?v=tZPNiCnPswU">Video Guide</a>)</th>
         </tr>
         <tr>
@@ -32,6 +37,9 @@
       <table>
         <tr>
           <th>Quick install </th>
+        </tr>
+        <tr>
+          <td>Manually delete "\reframework" and "\natives" if updating from a previous version</td>
         </tr>
         <tr>
           <td>Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter Rise"</td>
@@ -76,8 +84,10 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/207?tab=files">Adjustable UI Scale</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/43?tab=files">Monster Has HP Bar</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/68?tab=files">coavins damage and dps overlay</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1386?tab=files">Teleport to target (Ninjutsu gesture)</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/925?tab=files">Armor (Layered, Ignore Unlock Flags)</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1386?tab=files">Teleport to target (Ninjutsu
+        gesture)</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/925?tab=files">Armor (Layered, Ignore Unlock
+        Flags)</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
