@@ -89,7 +89,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1386?tab=files">Teleport to target (Ninjutsu
         gesture)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/925?tab=files">No Crafting Requirements (Layered,
-        Ignore Unlock Flags) - is buggy until you unlock one entry of the category (e.g. 1 low rank layered armor)</a> 
+        Ignore Unlock Flags) - is buggy until you gained at least one ore or crystal</a>
     </li>
   </ul>
 </details>
