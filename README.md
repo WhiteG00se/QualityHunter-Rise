@@ -10,6 +10,8 @@
           <td>It's recommended to set the language to english both on steam and ingame.</td>
         </tr>
       </table>
+    </li>
+    <li>
       <table>
         <tr>
           <th>Recommended install (<a href="https://www.youtube.com/watch?v=tZPNiCnPswU">Video Guide</a>)</th>
