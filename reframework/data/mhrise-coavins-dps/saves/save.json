@@ -28,7 +28,7 @@
             "VALUE": false
         },
         "DRAW_BAR_COLORBLOCK": {
-            "VALUE": true
+            "VALUE": false
         },
         "DRAW_BAR_OUTLINES": {
             "VALUE": false
@@ -37,7 +37,7 @@
             "VALUE": false
         },
         "DRAW_BAR_REVEAL_RANK": {
-            "VALUE": 3
+            "VALUE": 2
         },
         "DRAW_BAR_TEXT_NAME_USE_REAL_NAMES": {
             "VALUE": true
@@ -66,7 +66,7 @@
             "VALUE": true
         },
         "DRAW_TITLE": {
-            "VALUE": true
+            "VALUE": false
         },
         "DRAW_TITLE_BACKGROUND": {
             "VALUE": true
@@ -83,7 +83,7 @@
             "VALUE": true
         },
         "DRAW_TOTAL": {
-            "VALUE": true
+            "VALUE": false
         },
         "DRAW_TOTAL_BACKGROUND": {
             "VALUE": false
@@ -227,12 +227,12 @@
         "TABLE_WIDTH": {
             "MAX": 2000.0,
             "MIN": 30.0,
-            "VALUE": 337
+            "VALUE": 303
         },
         "TABLE_X": {
             "MAX": 1.0,
             "MIN": 0.0,
-            "VALUE": 0.7400000095367432
+            "VALUE": 0.75
         },
         "TABLE_Y": {
             "MAX": 1.0,
