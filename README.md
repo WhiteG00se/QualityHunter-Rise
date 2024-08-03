@@ -79,7 +79,6 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1044?tab=files">Better Matchmaking</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/37?tab=files">RiseTweaks</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/134?tab=files">REFramework Direct2D</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/49?tab=files">Disable Other Players Pets</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/117?tab=files">Buddy Skill Editor</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/93?tab=files">NoKillCam+SlowMo</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/17?tab=files">Charm Editor and Item Cheat</a></li>
