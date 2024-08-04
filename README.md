@@ -73,9 +73,9 @@
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/76?tab=files">No More Blinking Icons</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1064?tab=files">Gems Sorted by Skill Name (eng)</a>
     </li>
-    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/203?tab=files">Drop Rates Enhanced x2</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/319?tab=files">Exp/MR Exp/Anomaly Exp x1.5 and money/kamura
-        x2</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/203?tab=files">Drop Rates Enhanced x3</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/319?tab=files">Exp/MR Exp/Anomaly Exp x1.5 and
+        money/kamura x2</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/1044?tab=files">Better Matchmaking</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/37?tab=files">RiseTweaks</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterrise/mods/134?tab=files">REFramework Direct2D</a></li>
