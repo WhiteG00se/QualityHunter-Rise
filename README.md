@@ -38,7 +38,7 @@
     <li>
       <table>
         <tr>
-          <th>Quick install </th>
+          <th>Quick install (not recommended - might cause issues when updating the mod)</th>
         </tr>
         <tr>
           <td>Manually delete "\reframework" and "\natives" if updating from a previous version</td>
