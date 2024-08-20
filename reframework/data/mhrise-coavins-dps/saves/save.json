@@ -37,7 +37,7 @@
             "VALUE": false
         },
         "DRAW_BAR_REVEAL_RANK": {
-            "VALUE": 2
+            "VALUE": 3
         },
         "DRAW_BAR_TEXT_NAME_USE_REAL_NAMES": {
             "VALUE": true
@@ -134,8 +134,8 @@
             "VALUE": true
         },
         "TABLE_COLS": [
-            3.0,
-            1.0,
+            20,
+            3,
             1.0,
             6.0,
             1.0,
@@ -174,7 +174,7 @@
             58.0,
             58.0,
             30.0,
-            30.0,
+            30,
             30.0,
             30.0,
             53.0,

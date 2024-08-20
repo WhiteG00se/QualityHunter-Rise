@@ -24,7 +24,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_pnl_HeadUI": {
                     "anchor": 4,
@@ -33,7 +35,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -52,7 +56,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -85,7 +91,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "pnl_WireAiming": {
                     "anchor": 4,
@@ -94,7 +102,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -147,7 +157,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -166,7 +178,9 @@
                     "posX": 960.0,
                     "posY": 200,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_pnl_NomalQuestTimer": {
                     "anchor": 0,
@@ -175,7 +189,9 @@
                     "posX": 0,
                     "posY": 0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -194,7 +210,9 @@
                     "posX": 0,
                     "posY": -100,
                     "scale": 1,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "pnl_ActionCommand2": {
                     "absolutePos": true,
@@ -204,7 +222,9 @@
                     "posX": -200,
                     "posY": 30,
                     "scale": 1,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "pnl_ActionCommand3": {
                     "absolutePos": true,
@@ -214,7 +234,9 @@
                     "posX": 200,
                     "posY": 30,
                     "scale": 1,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "pnl_WeaponTechniqueMyset": {
                     "anchor": 5,
@@ -223,7 +245,9 @@
                     "posX": 0,
                     "posY": 0,
                     "scale": 1,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
@@ -249,7 +273,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_BowgunBulletPanel": {
                     "anchor": 0,
@@ -258,7 +284,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_BowgunBulletStatus": {
                     "anchor": 0,
@@ -267,7 +295,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 },
                 "_BowgunSpecialPosPanel": {
                     "anchor": 8,
@@ -276,7 +306,9 @@
                     "posX": 0.0,
                     "posY": 0.0,
                     "scale": 1.0,
-                    "useGlobalScale": true
+                    "useGlobalScale": true,
+                    "vectorPos": null,
+                    "vectorScale": null
                 }
             }
         },
